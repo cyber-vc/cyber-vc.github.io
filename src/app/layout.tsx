@@ -19,11 +19,11 @@ const dmSans = DM_Sans({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - CyberVC',
-    default: 'CyberVC - A community-driven data in VC conference',
+    template: '%s - TechnoVC',
+    default: 'TechnoVC - A community-driven data in VC conference',
   },
   description:
-    'At Cyber VC, participants explore the forefront of tech in venture capital, learning to implement sophisticated strategies that remain under the radar.',
+    'At Techno VC, participants explore the forefront of tech in venture capital, learning to implement sophisticated strategies that remain under the radar.',
 }
 
 export default function RootLayout({

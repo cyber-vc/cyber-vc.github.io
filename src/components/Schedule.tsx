@@ -33,22 +33,21 @@ const schedule: Array<Day> = [
       },
       {
         name: 'Panel Discussion',
-        description: 'How data is changing the face of venture capital',
+        description: 'To be confirmed',
         start: '09:30AM',
-        end: '10:30AM',
+        end: '10:15AM',
       },
       {
-        name: 'Panel Discussion',
-        description: 'What do LPs want from tech enabled VCs?',
+        name: 'TBD',
+        description: 'To be confirmed',
         start: '10:30AM',
-        end: '11:30AM',
+        end: '11:15AM',
       },
       {
         name: 'Panel Discussion',
-        description:
-          'Exploring the forefront of tech & product driven venture capital',
+        description: 'To be confirmed',
         start: '11:30AM',
-        end: '12:30PM',
+        end: '12:15PM',
       },
     ],
   },
@@ -192,13 +191,12 @@ export function Schedule() {
       <Container className="relative z-10">
         <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-4xl lg:pr-24">
           <h2 className="font-display text-4xl font-medium tracking-tighter text-blue-600 sm:text-5xl">
-            Our three day schedule is jam-packed with brilliant, creative, evil
-            geniuses.
+            Our schedule will be jam-packed with brilliant, creative, LPs &amp;
+            VCs.
           </h2>
           <p className="mt-4 font-display text-2xl tracking-tight text-blue-900">
-            The worst people in our industry giving the best talks you’ve ever
-            seen. Nothing will be recorded and every attendee has to sign an NDA
-            to watch the talks.
+            The top practitioners in the industry will be sharing their insights
+            on the future of Data, AI and Technology use in Venture Capital.
           </p>
         </div>
       </Container>
