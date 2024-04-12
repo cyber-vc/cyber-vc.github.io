@@ -30,8 +30,8 @@ export function Hero() {
           </Button>
           <dl className="mt-10 grid grid-cols-2 gap-x-10 gap-y-6 sm:mt-16 sm:gap-x-16 sm:gap-y-10 sm:text-center lg:auto-cols-auto lg:grid-flow-col lg:grid-cols-none lg:justify-start lg:text-left">
             {[
-              ['Speakers', '4'],
-              ['People Attending', '100'],
+              ['Speakers', '10+'],
+              ['People Attending', '80'],
               ['Venue', 'Redstone VC Office'],
               ['Location', 'Berlin'],
             ].map(([name, value]) => (
