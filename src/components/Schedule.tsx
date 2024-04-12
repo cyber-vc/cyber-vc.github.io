@@ -33,19 +33,19 @@ const schedule: Array<Day> = [
       },
       {
         name: 'Panel Discussion',
-        description: 'To be confirmed',
+        description: 'Announcing soon',
         start: '09:30AM',
         end: '10:15AM',
       },
       {
         name: 'TBD',
-        description: 'To be confirmed',
+        description: 'Announcing soon',
         start: '10:30AM',
         end: '11:15AM',
       },
       {
         name: 'Panel Discussion',
-        description: 'To be confirmed',
+        description: 'Announcing soon',
         start: '11:30AM',
         end: '12:15PM',
       },
