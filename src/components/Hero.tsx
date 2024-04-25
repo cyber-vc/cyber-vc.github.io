@@ -26,7 +26,7 @@ export function Hero() {
             </p>
           </div>
           <Button
-            href="https://lu.ma/eiozkwsu"
+            href="https://lu.ma/technovc24"
             className="mt-10 w-full sm:hidden"
           >
             Get your tickets

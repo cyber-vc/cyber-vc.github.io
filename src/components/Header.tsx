@@ -23,7 +23,7 @@ export function Header() {
           </div>
         </div>
         <div className="hidden sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-end">
-          <Button href="https://lu.ma/eiozkwsu" target="_blank">
+          <Button href="https://lu.ma/technovc24" target="_blank">
             Get your tickets
           </Button>
         </div>
